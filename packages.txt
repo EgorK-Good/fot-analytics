@@ -1,2 +1,1 @@
-# Системные пакеты для Streamlit Cloud (Prophet / cmdstan при необходимости)
 build-essential
