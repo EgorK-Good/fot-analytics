@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+*.db
+data/inbox/*
+data/processed/*
+!data/inbox/.gitkeep
+!data/processed/.gitkeep
+.streamlit/secrets.toml
+.env
+*.log
